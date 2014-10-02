@@ -1,6 +1,7 @@
 Based off the excellent work from https://github.com/wearefractal/gulp-coffee
 
 ## Information
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dereke/gulp-pogo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <table>
 <tr> 
